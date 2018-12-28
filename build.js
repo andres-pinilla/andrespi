@@ -15,8 +15,8 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('               Tierney Cyren'),
-  handle: chalk.white('bitandbang'),
+  name: chalk.white('               Andrés Pinilla'),
+  handle: chalk.white('andrespi'),
   work: chalk.white('Senior Cloud Developer Advocate at Microsoft'),
   opensource: chalk.white('Node.js Community Committee ') + chalk.green('⬢'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('bitandbang'),
